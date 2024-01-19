@@ -9,7 +9,7 @@ body {
   margin: 0;
   font-family: 'interregular', sans-serif;
   font-size: 16px;
-  line-height: 21.6px;
+  line-height: 1.2;
   background-image: url(../images/dotted_l.svg);
   background-repeat: repeat;
 }
